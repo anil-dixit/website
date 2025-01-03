@@ -16,7 +16,7 @@ spec:
    spec: 
      containers: 
      - name: nginx
-       image: anil412/prodproject:v42
+       image: anil412/prodproject:v43
        imagePullPolicy: Always
        ports:
        - containerPort: 80
